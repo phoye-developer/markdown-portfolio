@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Bold and Italics
+I have been with my current employer for **8 years**, and I am a *subject matter expert* for many of our key products.
